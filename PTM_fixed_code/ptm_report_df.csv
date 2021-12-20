@@ -1,0 +1,77 @@
+0,1,2,3,4,5,6,target mass
+Hydroxylation,Acetylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Acetylation,Citrullination,201
+Hydroxylation,Carboxylation,Acetylation,Methylation,Crotonylation,Glu to PyroGlu,0,201
+Hydroxylation,Carboxylation,Lactylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,0,201
+Hydroxylation,Carboxylation,Formylation or Dimethylation,Methylation,Citrullination,Crotonylation,0,201
+Hydroxylation,Carboxylation,Formylation or Dimethylation,Formylation or Dimethylation,Crotonylation,Glu to PyroGlu,0,201
+Hydroxylation,Carboxylation,Methylation,Formylation or Dimethylation,Citrullination,Crotonylation,0,201
+Hydroxylation,Carboxylation,Methylation,Acetylation,Crotonylation,Glu to PyroGlu,0,201
+Hydroxylation,Acetylation,Formylation or Dimethylation,Methylation,Citrullination,Butyrylation,0,201
+Hydroxylation,Acetylation,Formylation or Dimethylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,201
+Hydroxylation,Acetylation,Methylation,Formylation or Dimethylation,Citrullination,Butyrylation,0,201
+Hydroxylation,Acetylation,Methylation,Acetylation,Butyrylation,Glu to PyroGlu,0,201
+Hydroxylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,201
+Hydroxylation,Formylation or Dimethylation,Methylation,Acetylation,Citrullination,Butyrylation,0,201
+Hydroxylation,Formylation or Dimethylation,Formylation or Dimethylation,Acetylation,Butyrylation,Glu to PyroGlu,0,201
+Hydroxylation,Methylation,Formylation or Dimethylation,Acetylation,Citrullination,Butyrylation,0,201
+Carboxylation,Acetylation,Formylation or Dimethylation,Methylation,Acetylation,Citrullination,0,201
+Carboxylation,Acetylation,Formylation or Dimethylation,Formylation or Dimethylation,Acetylation,Glu to PyroGlu,0,201
+Carboxylation,Acetylation,Methylation,Formylation or Dimethylation,Acetylation,Citrullination,0,201
+Carboxylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,201
+Acetylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Acetylation,Nitrosylation,0,201
+Hydroxylation,Carboxylation,Phosphorylation or Sulfonation,Methylation,Nitrosylation,0,0,201
+Hydroxylation,Carboxylation,Acetylation,Lactylation,Formylation or Dimethylation,0,0,201
+Hydroxylation,Carboxylation,Acetylation,Lactylation,Formylation or Dimethylation,0,0,201
+Hydroxylation,Carboxylation,Acetylation,Citrullination,Crotonylation,0,0,201
+Hydroxylation,Carboxylation,Lactylation,Formylation or Dimethylation,Acetylation,0,0,201
+Hydroxylation,Carboxylation,Lactylation,Formylation or Dimethylation,Acetylation,0,0,201
+Hydroxylation,Carboxylation,Methylation,Phosphorylation or Sulfonation,Nitrosylation,0,0,201
+Hydroxylation,Carboxylation,Acetylation,Citrullination,Crotonylation,0,0,201
+Hydroxylation,Acetylation,Formylation or Dimethylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,201
+Hydroxylation,Acetylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,0,201
+Hydroxylation,Acetylation,Methylation,Acetylation,Hydroxybutyrylation,0,0,201
+Hydroxylation,Acetylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,0,201
+Hydroxylation,Acetylation,Acetylation,Citrullination,Butyrylation,0,0,201
+Hydroxylation,Formylation or Dimethylation,Formylation or Dimethylation,Acetylation,Hydroxybutyrylation,0,0,201
+Hydroxylation,Formylation or Dimethylation,Acetylation,Nitrosylation,Crotonylation,0,0,201
+Hydroxylation,Formylation or Dimethylation,Acetylation,Nitrosylation,Crotonylation,0,0,201
+Carboxylation,Acetylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,0,201
+Carboxylation,Acetylation,Methylation,Citrullination,Butyrylation,0,0,201
+Carboxylation,Acetylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,0,201
+Carboxylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,201
+Carboxylation,Formylation or Dimethylation,Methylation,Nitrosylation,Crotonylation,0,0,201
+Carboxylation,Formylation or Dimethylation,Formylation or Dimethylation,Citrullination,Butyrylation,0,0,201
+Carboxylation,Formylation or Dimethylation,Acetylation,Butyrylation,Glu to PyroGlu,0,0,201
+Carboxylation,Methylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,0,201
+Carboxylation,Methylation,Acetylation,Citrullination,Butyrylation,0,0,201
+Carboxylation,Formylation or Dimethylation,Acetylation,Butyrylation,Glu to PyroGlu,0,0,201
+Acetylation,Formylation or Dimethylation,Methylation,Nitrosylation,Butyrylation,0,0,201
+Acetylation,Methylation,Formylation or Dimethylation,Nitrosylation,Butyrylation,0,0,201
+Lactylation,Methylation,Citrullination,Crotonylation,Glu to PyroGlu,0,0,201
+Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Glutarylation,Glu to PyroGlu,0,0,201
+Formylation or Dimethylation,Methylation,Acetylation,Nitrosylation,Butyrylation,0,0,201
+Methylation,Formylation or Dimethylation,Acetylation,Nitrosylation,Butyrylation,0,0,201
+Hydroxylation,Carboxylation,Lactylation,Butyrylation,0,0,0,201
+Hydroxylation,Formylation or Dimethylation,Butyrylation,Hydroxybutyrylation,0,0,0,201
+Hydroxylation,Formylation or Dimethylation,Butyrylation,Hydroxybutyrylation,0,0,0,201
+Hydroxylation,Nitrosylation,Butyrylation,Crotonylation,0,0,0,201
+Carboxylation,Acetylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,0,201
+Carboxylation,Acetylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,0,201
+Carboxylation,Acetylation,Nitrosylation,Crotonylation,0,0,0,201
+Carboxylation,Formylation or Dimethylation,Acetylation,Hydroxybutyrylation,0,0,0,201
+Carboxylation,Formylation or Dimethylation,Acetylation,Hydroxybutyrylation,0,0,0,201
+Carboxylation,Acetylation,Nitrosylation,Crotonylation,0,0,0,201
+Acetylation,Formylation or Dimethylation,Glutarylation,Glu to PyroGlu,0,0,0,201
+Acetylation,Methylation,Citrullination,Glutarylation,0,0,0,201
+Acetylation,Formylation or Dimethylation,Glutarylation,Glu to PyroGlu,0,0,0,201
+Acetylation,Acetylation,Nitrosylation,Butyrylation,0,0,0,201
+Formylation or Dimethylation,Formylation or Dimethylation,Citrullination,Glutarylation,0,0,0,201
+Formylation or Dimethylation,Acetylation,Glutarylation,Glu to PyroGlu,0,0,0,201
+Formylation or Dimethylation,Citrullination,Malonylation,Glu to PyroGlu,0,0,0,201
+Methylation,Acetylation,Citrullination,Glutarylation,0,0,0,201
+Formylation or Dimethylation,Acetylation,Glutarylation,Glu to PyroGlu,0,0,0,201
+Formylation or Dimethylation,Citrullination,Malonylation,Glu to PyroGlu,0,0,0,201
+Hydroxylation,Lactylation,Glutarylation,0,0,0,0,201
+Carboxylation,Butyrylation,Hydroxybutyrylation,0,0,0,0,201
+Butyrylation,Glutarylation,Glu to PyroGlu,0,0,0,0,201
+Glutarylation,Hydroxybutyrylation,0,0,0,0,0,201
