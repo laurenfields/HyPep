@@ -1,0 +1,39 @@
+Mod,Mass,Aas
+Amidation,-1,X 
+no mod,0,X 
+Deamidation,1,"N,Q"
+Methylation,14,X 
+Hydroxylation,16,"K,N,P"
+Oxidation or Hydroxylation,16,"W,H,M"
+Glu to PyroGlu,17,"Q,E"
+Sodium Adduct,22,X 
+Formylation,28,X 
+Dimethylation,28,"K,R"
+Citrullination,31,R
+Dihydroxy,32,M
+S-carbamoylmethylcysteine cyclization,40,C
+Acetylation,42,X 
+Trimethylation,42,K
+Carbamylation,43,X 
+Carboxylation,44,"K,D,E"
+Ethanolation,44,C
+Beta methylthiolation,46,C
+Nitrosylation,47,"Y,T,S"
+Iodoacetamide derivative,57,C
+Iodoacetic acid derivative,58,C
+Crotonylation,68,K
+Butyrylation,70,K
+Lactylation,71,K
+Acrylamide adduct,71,C
+Phosphorylation,80,"S,T,Y"
+Sulfonation,80,"Y,T,S"
+Hydroxybutyrylation,87,K
+N-isopropylcarboxamidomethyl,99,C
+Succinylation,100,K
+S-pyridylethyation,105,C
+Glutarylation,114,K
+Malonylation,125,K
+Hexose,162,"S,T"
+N-Acetylhexosamine,203,N
+Myristoylation,210,"K,C,G"
+Biotinylation,226,X 
