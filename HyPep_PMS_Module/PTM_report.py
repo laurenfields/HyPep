@@ -12,7 +12,7 @@ import numpy as np
 from mass_query import df_ptm_mass3
 
 numbers = [-1,0,1,14,16,17,22,28,31,32,40,42,43,44,46,47,59,58,68,70,71,80,87,99,
-           100,105,114,125,162,203,210,226] #possible mass outcomes, see excel file in package for full list of mods
+           100,105,114,125,162,203,210,226] #possible mass outcomes, see excel file in package for full list of mods, masses are in Da
 
 for a in df_ptm_mass3: #calls each PTM mass identified
 

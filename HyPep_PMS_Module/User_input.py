@@ -10,19 +10,21 @@ Created on Thu Dec 16 09:16:43 2021
 import csv
 import pandas as pd
 
-mass_q_path = input('Enter path to mass query .csv: ')
-#mass_q_path = r'C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\mass_query.csv'
+#mass_q_path = input('Enter path to mass query .csv: ')
+mass_q_path = r'C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\HyPep_PMS_Module\mass_query.csv'
 mass_q_sequence = pd.read_csv(mass_q_path) #mass_q_sequence is the query
 mass_q_sequence_simp = mass_q_sequence
 
 
-tol_in = input('Enter error margin for mass matching: ')
-#tol_in = 100
+#tol_in = input('Enter error margin for mass matching (ppm): ')
+tol_in = 10000 #permanently set to 10000 to minimize search space
 tol_in = int(tol_in)  #User defined tolerance value
 
-path = input('Enter path to database sequence .csv: ')
-#path = r"C:\Users\lawashburn\Documents\HyPep_1.0\PMS_20211220\PTM_fixed_code-20211220T153626Z-001\PTM_fixed_code\sequence2.csv"
+#path = input('Enter path to database sequence .csv: ')
+path = r"C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\HyPep_PMS_Module\sequence2.csv"
 sequence = pd.read_csv(path)
 
-
+#ppm_err = 20000
+ppm_err = input('Enter error cutoff threshold (ppm): ')
+ppm_err = float(ppm_err)
 

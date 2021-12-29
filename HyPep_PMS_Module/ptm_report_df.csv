@@ -1,77 +1,349 @@
-0,1,2,3,4,5,6,target mass
-Hydroxylation,Acetylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Acetylation,Citrullination,201
-Hydroxylation,Carboxylation,Acetylation,Methylation,Crotonylation,Glu to PyroGlu,0,201
-Hydroxylation,Carboxylation,Lactylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,0,201
-Hydroxylation,Carboxylation,Formylation or Dimethylation,Methylation,Citrullination,Crotonylation,0,201
-Hydroxylation,Carboxylation,Formylation or Dimethylation,Formylation or Dimethylation,Crotonylation,Glu to PyroGlu,0,201
-Hydroxylation,Carboxylation,Methylation,Formylation or Dimethylation,Citrullination,Crotonylation,0,201
-Hydroxylation,Carboxylation,Methylation,Acetylation,Crotonylation,Glu to PyroGlu,0,201
-Hydroxylation,Acetylation,Formylation or Dimethylation,Methylation,Citrullination,Butyrylation,0,201
-Hydroxylation,Acetylation,Formylation or Dimethylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,201
-Hydroxylation,Acetylation,Methylation,Formylation or Dimethylation,Citrullination,Butyrylation,0,201
-Hydroxylation,Acetylation,Methylation,Acetylation,Butyrylation,Glu to PyroGlu,0,201
-Hydroxylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,201
-Hydroxylation,Formylation or Dimethylation,Methylation,Acetylation,Citrullination,Butyrylation,0,201
-Hydroxylation,Formylation or Dimethylation,Formylation or Dimethylation,Acetylation,Butyrylation,Glu to PyroGlu,0,201
-Hydroxylation,Methylation,Formylation or Dimethylation,Acetylation,Citrullination,Butyrylation,0,201
-Carboxylation,Acetylation,Formylation or Dimethylation,Methylation,Acetylation,Citrullination,0,201
-Carboxylation,Acetylation,Formylation or Dimethylation,Formylation or Dimethylation,Acetylation,Glu to PyroGlu,0,201
-Carboxylation,Acetylation,Methylation,Formylation or Dimethylation,Acetylation,Citrullination,0,201
-Carboxylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,201
-Acetylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Acetylation,Nitrosylation,0,201
-Hydroxylation,Carboxylation,Phosphorylation or Sulfonation,Methylation,Nitrosylation,0,0,201
-Hydroxylation,Carboxylation,Acetylation,Lactylation,Formylation or Dimethylation,0,0,201
-Hydroxylation,Carboxylation,Acetylation,Lactylation,Formylation or Dimethylation,0,0,201
-Hydroxylation,Carboxylation,Acetylation,Citrullination,Crotonylation,0,0,201
-Hydroxylation,Carboxylation,Lactylation,Formylation or Dimethylation,Acetylation,0,0,201
-Hydroxylation,Carboxylation,Lactylation,Formylation or Dimethylation,Acetylation,0,0,201
-Hydroxylation,Carboxylation,Methylation,Phosphorylation or Sulfonation,Nitrosylation,0,0,201
-Hydroxylation,Carboxylation,Acetylation,Citrullination,Crotonylation,0,0,201
-Hydroxylation,Acetylation,Formylation or Dimethylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,201
-Hydroxylation,Acetylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,0,201
-Hydroxylation,Acetylation,Methylation,Acetylation,Hydroxybutyrylation,0,0,201
-Hydroxylation,Acetylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,0,201
-Hydroxylation,Acetylation,Acetylation,Citrullination,Butyrylation,0,0,201
-Hydroxylation,Formylation or Dimethylation,Formylation or Dimethylation,Acetylation,Hydroxybutyrylation,0,0,201
-Hydroxylation,Formylation or Dimethylation,Acetylation,Nitrosylation,Crotonylation,0,0,201
-Hydroxylation,Formylation or Dimethylation,Acetylation,Nitrosylation,Crotonylation,0,0,201
-Carboxylation,Acetylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,0,201
-Carboxylation,Acetylation,Methylation,Citrullination,Butyrylation,0,0,201
-Carboxylation,Acetylation,Formylation or Dimethylation,Butyrylation,Glu to PyroGlu,0,0,201
-Carboxylation,Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,201
-Carboxylation,Formylation or Dimethylation,Methylation,Nitrosylation,Crotonylation,0,0,201
-Carboxylation,Formylation or Dimethylation,Formylation or Dimethylation,Citrullination,Butyrylation,0,0,201
-Carboxylation,Formylation or Dimethylation,Acetylation,Butyrylation,Glu to PyroGlu,0,0,201
-Carboxylation,Methylation,Formylation or Dimethylation,Nitrosylation,Crotonylation,0,0,201
-Carboxylation,Methylation,Acetylation,Citrullination,Butyrylation,0,0,201
-Carboxylation,Formylation or Dimethylation,Acetylation,Butyrylation,Glu to PyroGlu,0,0,201
-Acetylation,Formylation or Dimethylation,Methylation,Nitrosylation,Butyrylation,0,0,201
-Acetylation,Methylation,Formylation or Dimethylation,Nitrosylation,Butyrylation,0,0,201
-Lactylation,Methylation,Citrullination,Crotonylation,Glu to PyroGlu,0,0,201
-Formylation or Dimethylation,Methylation,Formylation or Dimethylation,Glutarylation,Glu to PyroGlu,0,0,201
-Formylation or Dimethylation,Methylation,Acetylation,Nitrosylation,Butyrylation,0,0,201
-Methylation,Formylation or Dimethylation,Acetylation,Nitrosylation,Butyrylation,0,0,201
-Hydroxylation,Carboxylation,Lactylation,Butyrylation,0,0,0,201
-Hydroxylation,Formylation or Dimethylation,Butyrylation,Hydroxybutyrylation,0,0,0,201
-Hydroxylation,Formylation or Dimethylation,Butyrylation,Hydroxybutyrylation,0,0,0,201
-Hydroxylation,Nitrosylation,Butyrylation,Crotonylation,0,0,0,201
-Carboxylation,Acetylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,0,201
-Carboxylation,Acetylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,0,201
-Carboxylation,Acetylation,Nitrosylation,Crotonylation,0,0,0,201
-Carboxylation,Formylation or Dimethylation,Acetylation,Hydroxybutyrylation,0,0,0,201
-Carboxylation,Formylation or Dimethylation,Acetylation,Hydroxybutyrylation,0,0,0,201
-Carboxylation,Acetylation,Nitrosylation,Crotonylation,0,0,0,201
-Acetylation,Formylation or Dimethylation,Glutarylation,Glu to PyroGlu,0,0,0,201
-Acetylation,Methylation,Citrullination,Glutarylation,0,0,0,201
-Acetylation,Formylation or Dimethylation,Glutarylation,Glu to PyroGlu,0,0,0,201
-Acetylation,Acetylation,Nitrosylation,Butyrylation,0,0,0,201
-Formylation or Dimethylation,Formylation or Dimethylation,Citrullination,Glutarylation,0,0,0,201
-Formylation or Dimethylation,Acetylation,Glutarylation,Glu to PyroGlu,0,0,0,201
-Formylation or Dimethylation,Citrullination,Malonylation,Glu to PyroGlu,0,0,0,201
-Methylation,Acetylation,Citrullination,Glutarylation,0,0,0,201
-Formylation or Dimethylation,Acetylation,Glutarylation,Glu to PyroGlu,0,0,0,201
-Formylation or Dimethylation,Citrullination,Malonylation,Glu to PyroGlu,0,0,0,201
-Hydroxylation,Lactylation,Glutarylation,0,0,0,0,201
-Carboxylation,Butyrylation,Hydroxybutyrylation,0,0,0,0,201
-Butyrylation,Glutarylation,Glu to PyroGlu,0,0,0,0,201
-Glutarylation,Hydroxybutyrylation,0,0,0,0,0,201
+0,1,2,3,4,5,6,7,8,target mass
+Amidation,0,Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Citrullination,128
+Amidation,0,Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,59,0,128
+Amidation,0,Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Carboxylation or Ethanolation,0,128
+Amidation,0,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Nitrosylation,0,128
+Amidation,0,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carboxylation or Ethanolation,0,128
+Amidation,0,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Carbamylation,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Acetylation or Trimethylation,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Dihydroxy,0,128
+Amidation,Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Citrullination,0,128
+Amidation,0,Deamidation,Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Butyrylation,0,0,128
+Amidation,0,Deamidation,Methylation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,128
+Amidation,0,Deamidation,Methylation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Beta methylthiolation,0,0,128
+Amidation,0,Deamidation,Methylation,Formylation or Dimethylation,Acetylation or Trimethylation,Carboxylation or Ethanolation,0,0,128
+Amidation,0,Deamidation,Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,128
+Amidation,0,Deamidation,Methylation,Dihydroxy,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,59,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Iodoacetic acid derivative,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Carbamylation,Nitrosylation,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Carboxylation or Ethanolation,Beta methylthiolation,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,128
+Amidation,0,Deamidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Iodoacetic acid derivative,0,0,128
+Amidation,0,Deamidation,Glu to PyroGlu,Sodium Adduct,Acetylation or Trimethylation,Nitrosylation,0,0,128
+Amidation,0,Deamidation,Glu to PyroGlu,Sodium Adduct,Carbamylation,Beta methylthiolation,0,0,128
+Amidation,0,Deamidation,Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,128
+Amidation,0,Deamidation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Nitrosylation,0,0,128
+Amidation,0,Deamidation,Sodium Adduct,Formylation or Dimethylation,Dihydroxy,Beta methylthiolation,0,0,128
+Amidation,0,Deamidation,Sodium Adduct,Citrullination,Dihydroxy,Carbamylation,0,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,Beta methylthiolation,0,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Citrullination,S-carbamoylmethylcysteine cyclization,0,0,128
+Amidation,0,Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Carboxylation or Ethanolation,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Beta methylthiolation,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carbamylation,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Acetylation or Trimethylation,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Dihydroxy,0,0,128
+Amidation,Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,59,0,0,128
+Amidation,Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Carboxylation or Ethanolation,0,0,128
+Amidation,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Nitrosylation,0,0,128
+Amidation,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carboxylation or Ethanolation,0,0,128
+Amidation,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Carbamylation,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Acetylation or Trimethylation,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Dihydroxy,0,0,128
+0,Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Iodoacetic acid derivative,0,0,128
+0,Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Formylation or Dimethylation,Nitrosylation,0,0,128
+0,Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,Carboxylation or Ethanolation,0,0,128
+0,Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Carbamylation,0,0,128
+0,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Beta methylthiolation,0,0,128
+0,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carbamylation,0,0,128
+0,Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Acetylation or Trimethylation,0,0,128
+0,Deamidation,Methylation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Dihydroxy,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Carboxylation or Ethanolation,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,S-carbamoylmethylcysteine cyclization,0,0,128
+0,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Citrullination,0,0,128
+Amidation,0,Deamidation,Methylation,Carbamylation,Lactylation or Acrylamide adduct,0,0,0,128
+Amidation,0,Deamidation,Methylation,Carboxylation or Ethanolation,Butyrylation,0,0,0,128
+Amidation,0,Deamidation,Methylation,Beta methylthiolation,Crotonylation,0,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Dihydroxy,Phosphorylation or sulfonation,0,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Acetylation or Trimethylation,Butyrylation,0,0,0,128
+Amidation,0,Deamidation,Hydroxylation or Oxidation,Carboxylation or Ethanolation,Crotonylation,0,0,0,128
+Amidation,0,Deamidation,Glu to PyroGlu,Citrullination,Phosphorylation or sulfonation,0,0,0,128
+Amidation,0,Deamidation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Lactylation or Acrylamide adduct,0,0,0,128
+Amidation,0,Deamidation,Glu to PyroGlu,Carbamylation,Crotonylation,0,0,0,128
+Amidation,0,Deamidation,Sodium Adduct,Nitrosylation,59,0,0,0,128
+Amidation,0,Deamidation,Formylation or Dimethylation,Dihydroxy,Crotonylation,0,0,0,128
+Amidation,0,Deamidation,Formylation or Dimethylation,Acetylation or Trimethylation,Iodoacetic acid derivative,0,0,0,128
+Amidation,0,Deamidation,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,Beta methylthiolation,0,0,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Lactylation or Acrylamide adduct,0,0,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,Citrullination,Crotonylation,0,0,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,59,0,0,0,128
+Amidation,0,Methylation,Glu to PyroGlu,Formylation or Dimethylation,Butyrylation,0,0,0,128
+Amidation,0,Methylation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,0,128
+Amidation,0,Methylation,Sodium Adduct,Beta methylthiolation,Nitrosylation,0,0,0,128
+Amidation,0,Methylation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Nitrosylation,0,0,0,128
+Amidation,0,Methylation,Formylation or Dimethylation,Carbamylation,Carboxylation or Ethanolation,0,0,0,128
+Amidation,0,Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,0,128
+Amidation,0,Methylation,Dihydroxy,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Glu to PyroGlu,Formylation or Dimethylation,Crotonylation,0,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,59,0,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Sodium Adduct,Carboxylation or Ethanolation,Nitrosylation,0,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Formylation or Dimethylation,Acetylation or Trimethylation,Carbamylation,0,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Citrullination,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,128
+Amidation,0,Glu to PyroGlu,Sodium Adduct,Citrullination,59,0,0,0,128
+Amidation,0,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Iodoacetic acid derivative,0,0,0,128
+Amidation,0,Glu to PyroGlu,Sodium Adduct,Carbamylation,Nitrosylation,0,0,0,128
+Amidation,0,Glu to PyroGlu,Sodium Adduct,Carboxylation or Ethanolation,Beta methylthiolation,0,0,0,128
+Amidation,0,Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,0,128
+Amidation,0,Sodium Adduct,Formylation or Dimethylation,Dihydroxy,Nitrosylation,0,0,0,128
+Amidation,0,Sodium Adduct,Citrullination,Dihydroxy,Carboxylation or Ethanolation,0,0,0,128
+Amidation,Deamidation,Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Butyrylation,0,0,0,128
+Amidation,Deamidation,Methylation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,0,128
+Amidation,Deamidation,Methylation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Beta methylthiolation,0,0,0,128
+Amidation,Deamidation,Methylation,Formylation or Dimethylation,Acetylation or Trimethylation,Carboxylation or Ethanolation,0,0,0,128
+Amidation,Deamidation,Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,128
+Amidation,Deamidation,Methylation,Dihydroxy,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,59,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Iodoacetic acid derivative,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Carbamylation,Nitrosylation,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Carboxylation or Ethanolation,Beta methylthiolation,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,0,128
+Amidation,Deamidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Iodoacetic acid derivative,0,0,0,128
+Amidation,Deamidation,Glu to PyroGlu,Sodium Adduct,Acetylation or Trimethylation,Nitrosylation,0,0,0,128
+Amidation,Deamidation,Glu to PyroGlu,Sodium Adduct,Carbamylation,Beta methylthiolation,0,0,0,128
+Amidation,Deamidation,Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,128
+Amidation,Deamidation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Nitrosylation,0,0,0,128
+Amidation,Deamidation,Sodium Adduct,Formylation or Dimethylation,Dihydroxy,Beta methylthiolation,0,0,0,128
+Amidation,Deamidation,Sodium Adduct,Citrullination,Dihydroxy,Carbamylation,0,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,Beta methylthiolation,0,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Citrullination,S-carbamoylmethylcysteine cyclization,0,0,0,128
+Amidation,Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Carboxylation or Ethanolation,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Beta methylthiolation,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carbamylation,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Acetylation or Trimethylation,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Dihydroxy,0,0,0,128
+0,Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Phosphorylation or sulfonation,0,0,0,128
+0,Deamidation,Methylation,Glu to PyroGlu,Formylation or Dimethylation,Crotonylation,0,0,0,128
+0,Deamidation,Methylation,Sodium Adduct,Dihydroxy,59,0,0,0,128
+0,Deamidation,Methylation,Sodium Adduct,Carboxylation or Ethanolation,Nitrosylation,0,0,0,128
+0,Deamidation,Methylation,Formylation or Dimethylation,Acetylation or Trimethylation,Carbamylation,0,0,0,128
+0,Deamidation,Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,Iodoacetic acid derivative,0,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Acetylation or Trimethylation,Nitrosylation,0,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Carbamylation,Beta methylthiolation,0,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,128
+0,Deamidation,Glu to PyroGlu,Sodium Adduct,Acetylation or Trimethylation,Beta methylthiolation,0,0,0,128
+0,Deamidation,Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,128
+0,Deamidation,Glu to PyroGlu,Citrullination,Dihydroxy,Nitrosylation,0,0,0,128
+0,Deamidation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Beta methylthiolation,0,0,0,128
+0,Deamidation,Sodium Adduct,Citrullination,Dihydroxy,Acetylation or Trimethylation,0,0,0,128
+0,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,59,0,0,0,128
+0,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Carboxylation or Ethanolation,0,0,0,128
+0,Methylation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Nitrosylation,0,0,0,128
+0,Methylation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carboxylation or Ethanolation,0,0,0,128
+0,Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Carbamylation,0,0,0,128
+0,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Acetylation or Trimethylation,0,0,0,128
+Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Iodoacetic acid derivative,0,0,0,128
+Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Formylation or Dimethylation,Nitrosylation,0,0,0,128
+Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,Carboxylation or Ethanolation,0,0,0,128
+Deamidation,Methylation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Carbamylation,0,0,0,128
+Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Beta methylthiolation,0,0,0,128
+Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carbamylation,0,0,0,128
+Deamidation,Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Acetylation or Trimethylation,0,0,0,128
+Deamidation,Methylation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Dihydroxy,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Carboxylation or Ethanolation,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,S-carbamoylmethylcysteine cyclization,0,0,0,128
+Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Citrullination,0,0,0,128
+Amidation,0,Deamidation,Methylation,Glutarylation,0,0,0,0,128
+Amidation,0,Deamidation,Formylation or Dimethylation,Succinylation,0,0,0,0,128
+Amidation,0,Deamidation,Iodoacetic acid derivative,Butyrylation,0,0,0,0,128
+Amidation,0,Methylation,Hydroxylation or Oxidation,N-isopropylcarboxamidomethyl,0,0,0,0,128
+Amidation,0,Methylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,0,0,128
+Amidation,0,Methylation,Carboxylation or Ethanolation,Lactylation or Acrylamide adduct,0,0,0,0,128
+Amidation,0,Methylation,Nitrosylation,Crotonylation,0,0,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Acetylation or Trimethylation,Lactylation or Acrylamide adduct,0,0,0,0,128
+Amidation,0,Hydroxylation or Oxidation,Carbamylation,Butyrylation,0,0,0,0,128
+Amidation,0,Glu to PyroGlu,Dihydroxy,Phosphorylation or sulfonation,0,0,0,0,128
+Amidation,0,Glu to PyroGlu,Acetylation or Trimethylation,Butyrylation,0,0,0,0,128
+Amidation,0,Glu to PyroGlu,Carboxylation or Ethanolation,Crotonylation,0,0,0,0,128
+Amidation,0,Formylation or Dimethylation,Citrullination,Butyrylation,0,0,0,0,128
+Amidation,0,Formylation or Dimethylation,Acetylation or Trimethylation,59,0,0,0,0,128
+Amidation,0,Formylation or Dimethylation,Carbamylation,Iodoacetic acid derivative,0,0,0,0,128
+Amidation,0,Citrullination,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,0,0,128
+Amidation,0,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,Nitrosylation,0,0,0,0,128
+Amidation,0,S-carbamoylmethylcysteine cyclization,Carbamylation,Beta methylthiolation,0,0,0,0,128
+Amidation,0,Acetylation or Trimethylation,Carbamylation,Carboxylation or Ethanolation,0,0,0,0,128
+Amidation,Deamidation,Methylation,Carbamylation,Lactylation or Acrylamide adduct,0,0,0,0,128
+Amidation,Deamidation,Methylation,Carboxylation or Ethanolation,Butyrylation,0,0,0,0,128
+Amidation,Deamidation,Methylation,Beta methylthiolation,Crotonylation,0,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Dihydroxy,Phosphorylation or sulfonation,0,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Acetylation or Trimethylation,Butyrylation,0,0,0,0,128
+Amidation,Deamidation,Hydroxylation or Oxidation,Carboxylation or Ethanolation,Crotonylation,0,0,0,0,128
+Amidation,Deamidation,Glu to PyroGlu,Citrullination,Phosphorylation or sulfonation,0,0,0,0,128
+Amidation,Deamidation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Lactylation or Acrylamide adduct,0,0,0,0,128
+Amidation,Deamidation,Glu to PyroGlu,Carbamylation,Crotonylation,0,0,0,0,128
+Amidation,Deamidation,Sodium Adduct,Nitrosylation,59,0,0,0,0,128
+Amidation,Deamidation,Formylation or Dimethylation,Dihydroxy,Crotonylation,0,0,0,0,128
+Amidation,Deamidation,Formylation or Dimethylation,Acetylation or Trimethylation,Iodoacetic acid derivative,0,0,0,0,128
+Amidation,Deamidation,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,Beta methylthiolation,0,0,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Lactylation or Acrylamide adduct,0,0,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,Citrullination,Crotonylation,0,0,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,59,0,0,0,0,128
+Amidation,Methylation,Glu to PyroGlu,Formylation or Dimethylation,Butyrylation,0,0,0,0,128
+Amidation,Methylation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,0,0,128
+Amidation,Methylation,Sodium Adduct,Beta methylthiolation,Nitrosylation,0,0,0,0,128
+Amidation,Methylation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Nitrosylation,0,0,0,0,128
+Amidation,Methylation,Formylation or Dimethylation,Carbamylation,Carboxylation or Ethanolation,0,0,0,0,128
+Amidation,Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,0,0,128
+Amidation,Methylation,Dihydroxy,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Glu to PyroGlu,Formylation or Dimethylation,Crotonylation,0,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,59,0,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Sodium Adduct,Carboxylation or Ethanolation,Nitrosylation,0,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Formylation or Dimethylation,Acetylation or Trimethylation,Carbamylation,0,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Citrullination,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,0,128
+Amidation,Glu to PyroGlu,Sodium Adduct,Citrullination,59,0,0,0,0,128
+Amidation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Iodoacetic acid derivative,0,0,0,0,128
+Amidation,Glu to PyroGlu,Sodium Adduct,Carbamylation,Nitrosylation,0,0,0,0,128
+Amidation,Glu to PyroGlu,Sodium Adduct,Carboxylation or Ethanolation,Beta methylthiolation,0,0,0,0,128
+Amidation,Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,0,0,128
+Amidation,Sodium Adduct,Formylation or Dimethylation,Dihydroxy,Nitrosylation,0,0,0,0,128
+Amidation,Sodium Adduct,Citrullination,Dihydroxy,Carboxylation or Ethanolation,0,0,0,0,128
+0,Deamidation,Methylation,Acetylation or Trimethylation,Lactylation or Acrylamide adduct,0,0,0,0,128
+0,Deamidation,Methylation,Carbamylation,Butyrylation,0,0,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Citrullination,Phosphorylation or sulfonation,0,0,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,Lactylation or Acrylamide adduct,0,0,0,0,128
+0,Deamidation,Hydroxylation or Oxidation,Carbamylation,Crotonylation,0,0,0,0,128
+0,Deamidation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Butyrylation,0,0,0,0,128
+0,Deamidation,Glu to PyroGlu,Acetylation or Trimethylation,Crotonylation,0,0,0,0,128
+0,Deamidation,Sodium Adduct,Beta methylthiolation,59,0,0,0,0,128
+0,Deamidation,Sodium Adduct,Nitrosylation,Iodoacetic acid derivative,0,0,0,0,128
+0,Deamidation,Formylation or Dimethylation,Citrullination,Crotonylation,0,0,0,0,128
+0,Deamidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,59,0,0,0,0,128
+0,Deamidation,S-carbamoylmethylcysteine cyclization,Carbamylation,Carboxylation or Ethanolation,0,0,0,0,128
+0,Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Butyrylation,0,0,0,0,128
+0,Methylation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,0,0,128
+0,Methylation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Beta methylthiolation,0,0,0,0,128
+0,Methylation,Formylation or Dimethylation,Acetylation or Trimethylation,Carboxylation or Ethanolation,0,0,0,0,128
+0,Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,0,128
+0,Methylation,Dihydroxy,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,0,128
+0,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,59,0,0,0,0,128
+0,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Iodoacetic acid derivative,0,0,0,0,128
+0,Hydroxylation or Oxidation,Sodium Adduct,Carbamylation,Nitrosylation,0,0,0,0,128
+0,Hydroxylation or Oxidation,Sodium Adduct,Carboxylation or Ethanolation,Beta methylthiolation,0,0,0,0,128
+0,Hydroxylation or Oxidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,0,0,128
+0,Glu to PyroGlu,Sodium Adduct,Citrullination,Iodoacetic acid derivative,0,0,0,0,128
+0,Glu to PyroGlu,Sodium Adduct,Acetylation or Trimethylation,Nitrosylation,0,0,0,0,128
+0,Glu to PyroGlu,Sodium Adduct,Carbamylation,Beta methylthiolation,0,0,0,0,128
+0,Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,0,128
+0,Sodium Adduct,Formylation or Dimethylation,Citrullination,Nitrosylation,0,0,0,0,128
+0,Sodium Adduct,Formylation or Dimethylation,Dihydroxy,Beta methylthiolation,0,0,0,0,128
+0,Sodium Adduct,Citrullination,Dihydroxy,Carbamylation,0,0,0,0,128
+Deamidation,Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Phosphorylation or sulfonation,0,0,0,0,128
+Deamidation,Methylation,Glu to PyroGlu,Formylation or Dimethylation,Crotonylation,0,0,0,0,128
+Deamidation,Methylation,Sodium Adduct,Dihydroxy,59,0,0,0,0,128
+Deamidation,Methylation,Sodium Adduct,Carboxylation or Ethanolation,Nitrosylation,0,0,0,0,128
+Deamidation,Methylation,Formylation or Dimethylation,Acetylation or Trimethylation,Carbamylation,0,0,0,0,128
+Deamidation,Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Citrullination,Iodoacetic acid derivative,0,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Acetylation or Trimethylation,Nitrosylation,0,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Sodium Adduct,Carbamylation,Beta methylthiolation,0,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,0,128
+Deamidation,Glu to PyroGlu,Sodium Adduct,Acetylation or Trimethylation,Beta methylthiolation,0,0,0,0,128
+Deamidation,Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,0,128
+Deamidation,Glu to PyroGlu,Citrullination,Dihydroxy,Nitrosylation,0,0,0,0,128
+Deamidation,Sodium Adduct,Formylation or Dimethylation,Citrullination,Beta methylthiolation,0,0,0,0,128
+Deamidation,Sodium Adduct,Citrullination,Dihydroxy,Acetylation or Trimethylation,0,0,0,0,128
+Methylation,Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,59,0,0,0,0,128
+Methylation,Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Carboxylation or Ethanolation,0,0,0,0,128
+Methylation,Glu to PyroGlu,Sodium Adduct,Formylation or Dimethylation,Nitrosylation,0,0,0,0,128
+Methylation,Glu to PyroGlu,Sodium Adduct,Citrullination,Carboxylation or Ethanolation,0,0,0,0,128
+Methylation,Glu to PyroGlu,Sodium Adduct,Dihydroxy,Carbamylation,0,0,0,0,128
+Hydroxylation or Oxidation,Glu to PyroGlu,Sodium Adduct,Citrullination,Acetylation or Trimethylation,0,0,0,0,128
+Amidation,0,Acetylation or Trimethylation,Hydroxybutyrylation,0,0,0,0,0,128
+Amidation,0,59,Butyrylation,0,0,0,0,0,128
+Amidation,0,Iodoacetic acid derivative,Lactylation or Acrylamide adduct,0,0,0,0,0,128
+Amidation,Deamidation,Methylation,Glutarylation,0,0,0,0,0,128
+Amidation,Deamidation,Formylation or Dimethylation,Succinylation,0,0,0,0,0,128
+Amidation,Deamidation,Iodoacetic acid derivative,Butyrylation,0,0,0,0,0,128
+Amidation,Methylation,Hydroxylation or Oxidation,N-isopropylcarboxamidomethyl,0,0,0,0,0,128
+Amidation,Methylation,Formylation or Dimethylation,Hydroxybutyrylation,0,0,0,0,0,128
+Amidation,Methylation,Carboxylation or Ethanolation,Lactylation or Acrylamide adduct,0,0,0,0,0,128
+Amidation,Methylation,Nitrosylation,Crotonylation,0,0,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Acetylation or Trimethylation,Lactylation or Acrylamide adduct,0,0,0,0,0,128
+Amidation,Hydroxylation or Oxidation,Carbamylation,Butyrylation,0,0,0,0,0,128
+Amidation,Glu to PyroGlu,Dihydroxy,Phosphorylation or sulfonation,0,0,0,0,0,128
+Amidation,Glu to PyroGlu,Acetylation or Trimethylation,Butyrylation,0,0,0,0,0,128
+Amidation,Glu to PyroGlu,Carboxylation or Ethanolation,Crotonylation,0,0,0,0,0,128
+Amidation,Formylation or Dimethylation,Citrullination,Butyrylation,0,0,0,0,0,128
+Amidation,Formylation or Dimethylation,Acetylation or Trimethylation,59,0,0,0,0,0,128
+Amidation,Formylation or Dimethylation,Carbamylation,Iodoacetic acid derivative,0,0,0,0,0,128
+Amidation,Citrullination,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,0,0,0,128
+Amidation,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,Nitrosylation,0,0,0,0,0,128
+Amidation,S-carbamoylmethylcysteine cyclization,Carbamylation,Beta methylthiolation,0,0,0,0,0,128
+Amidation,Acetylation or Trimethylation,Carbamylation,Carboxylation or Ethanolation,0,0,0,0,0,128
+0,Deamidation,Sodium Adduct,S-pyridylethyation,0,0,0,0,0,128
+0,Deamidation,Formylation or Dimethylation,N-isopropylcarboxamidomethyl,0,0,0,0,0,128
+0,Deamidation,S-carbamoylmethylcysteine cyclization,Hydroxybutyrylation,0,0,0,0,0,128
+0,Deamidation,Nitrosylation,Phosphorylation or sulfonation,0,0,0,0,0,128
+0,Deamidation,59,Crotonylation,0,0,0,0,0,128
+0,Methylation,Carbamylation,Lactylation or Acrylamide adduct,0,0,0,0,0,128
+0,Methylation,Carboxylation or Ethanolation,Butyrylation,0,0,0,0,0,128
+0,Methylation,Beta methylthiolation,Crotonylation,0,0,0,0,0,128
+0,Hydroxylation or Oxidation,Dihydroxy,Phosphorylation or sulfonation,0,0,0,0,0,128
+0,Hydroxylation or Oxidation,Acetylation or Trimethylation,Butyrylation,0,0,0,0,0,128
+0,Hydroxylation or Oxidation,Carboxylation or Ethanolation,Crotonylation,0,0,0,0,0,128
+0,Glu to PyroGlu,Citrullination,Phosphorylation or sulfonation,0,0,0,0,0,128
+0,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Lactylation or Acrylamide adduct,0,0,0,0,0,128
+0,Glu to PyroGlu,Carbamylation,Crotonylation,0,0,0,0,0,128
+0,Sodium Adduct,Nitrosylation,59,0,0,0,0,0,128
+0,Formylation or Dimethylation,Dihydroxy,Crotonylation,0,0,0,0,0,128
+0,Formylation or Dimethylation,Acetylation or Trimethylation,Iodoacetic acid derivative,0,0,0,0,0,128
+0,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,Beta methylthiolation,0,0,0,0,0,128
+Deamidation,Methylation,Acetylation or Trimethylation,Lactylation or Acrylamide adduct,0,0,0,0,0,128
+Deamidation,Methylation,Carbamylation,Butyrylation,0,0,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Citrullination,Phosphorylation or sulfonation,0,0,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,Lactylation or Acrylamide adduct,0,0,0,0,0,128
+Deamidation,Hydroxylation or Oxidation,Carbamylation,Crotonylation,0,0,0,0,0,128
+Deamidation,Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Butyrylation,0,0,0,0,0,128
+Deamidation,Glu to PyroGlu,Acetylation or Trimethylation,Crotonylation,0,0,0,0,0,128
+Deamidation,Sodium Adduct,Beta methylthiolation,59,0,0,0,0,0,128
+Deamidation,Sodium Adduct,Nitrosylation,Iodoacetic acid derivative,0,0,0,0,0,128
+Deamidation,Formylation or Dimethylation,Citrullination,Crotonylation,0,0,0,0,0,128
+Deamidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,59,0,0,0,0,0,128
+Deamidation,S-carbamoylmethylcysteine cyclization,Carbamylation,Carboxylation or Ethanolation,0,0,0,0,0,128
+Methylation,Hydroxylation or Oxidation,Formylation or Dimethylation,Butyrylation,0,0,0,0,0,128
+Methylation,Hydroxylation or Oxidation,S-carbamoylmethylcysteine cyclization,Iodoacetic acid derivative,0,0,0,0,0,128
+Methylation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Beta methylthiolation,0,0,0,0,0,128
+Methylation,Formylation or Dimethylation,Acetylation or Trimethylation,Carboxylation or Ethanolation,0,0,0,0,0,128
+Methylation,Citrullination,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,0,0,128
+Methylation,Dihydroxy,S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,0,0,0,0,0,128
+Hydroxylation or Oxidation,Sodium Adduct,Citrullination,59,0,0,0,0,0,128
+Hydroxylation or Oxidation,Sodium Adduct,Dihydroxy,Iodoacetic acid derivative,0,0,0,0,0,128
+Hydroxylation or Oxidation,Sodium Adduct,Carbamylation,Nitrosylation,0,0,0,0,0,128
+Hydroxylation or Oxidation,Sodium Adduct,Carboxylation or Ethanolation,Beta methylthiolation,0,0,0,0,0,128
+Hydroxylation or Oxidation,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carboxylation or Ethanolation,0,0,0,0,0,128
+Glu to PyroGlu,Sodium Adduct,Citrullination,Iodoacetic acid derivative,0,0,0,0,0,128
+Glu to PyroGlu,Sodium Adduct,Acetylation or Trimethylation,Nitrosylation,0,0,0,0,0,128
+Glu to PyroGlu,Sodium Adduct,Carbamylation,Beta methylthiolation,0,0,0,0,0,128
+Glu to PyroGlu,Formylation or Dimethylation,S-carbamoylmethylcysteine cyclization,Carbamylation,0,0,0,0,0,128
+Sodium Adduct,Formylation or Dimethylation,Citrullination,Nitrosylation,0,0,0,0,0,128
+Sodium Adduct,Formylation or Dimethylation,Dihydroxy,Beta methylthiolation,0,0,0,0,0,128
+Sodium Adduct,Citrullination,Dihydroxy,Carbamylation,0,0,0,0,0,128
+Amidation,Acetylation or Trimethylation,Hydroxybutyrylation,0,0,0,0,0,0,128
+Amidation,59,Butyrylation,0,0,0,0,0,0,128
+Amidation,Iodoacetic acid derivative,Lactylation or Acrylamide adduct,0,0,0,0,0,0,128
+0,Methylation,Glutarylation,0,0,0,0,0,0,128
+0,Formylation or Dimethylation,Succinylation,0,0,0,0,0,0,128
+0,Iodoacetic acid derivative,Butyrylation,0,0,0,0,0,0,128
+Deamidation,Sodium Adduct,S-pyridylethyation,0,0,0,0,0,0,128
+Deamidation,Formylation or Dimethylation,N-isopropylcarboxamidomethyl,0,0,0,0,0,0,128
+Deamidation,S-carbamoylmethylcysteine cyclization,Hydroxybutyrylation,0,0,0,0,0,0,128
+Deamidation,Nitrosylation,Phosphorylation or sulfonation,0,0,0,0,0,0,128
+Deamidation,59,Crotonylation,0,0,0,0,0,0,128
+Methylation,Carbamylation,Lactylation or Acrylamide adduct,0,0,0,0,0,0,128
+Methylation,Carboxylation or Ethanolation,Butyrylation,0,0,0,0,0,0,128
+Methylation,Beta methylthiolation,Crotonylation,0,0,0,0,0,0,128
+Hydroxylation or Oxidation,Dihydroxy,Phosphorylation or sulfonation,0,0,0,0,0,0,128
+Hydroxylation or Oxidation,Acetylation or Trimethylation,Butyrylation,0,0,0,0,0,0,128
+Hydroxylation or Oxidation,Carboxylation or Ethanolation,Crotonylation,0,0,0,0,0,0,128
+Glu to PyroGlu,Citrullination,Phosphorylation or sulfonation,0,0,0,0,0,0,128
+Glu to PyroGlu,S-carbamoylmethylcysteine cyclization,Lactylation or Acrylamide adduct,0,0,0,0,0,0,128
+Glu to PyroGlu,Carbamylation,Crotonylation,0,0,0,0,0,0,128
+Sodium Adduct,Nitrosylation,59,0,0,0,0,0,0,128
+Formylation or Dimethylation,Dihydroxy,Crotonylation,0,0,0,0,0,0,128
+Formylation or Dimethylation,Acetylation or Trimethylation,Iodoacetic acid derivative,0,0,0,0,0,0,128
+S-carbamoylmethylcysteine cyclization,Acetylation or Trimethylation,Beta methylthiolation,0,0,0,0,0,0,128
+Methylation,Glutarylation,0,0,0,0,0,0,0,128
+Formylation or Dimethylation,Succinylation,0,0,0,0,0,0,0,128
+Iodoacetic acid derivative,Butyrylation,0,0,0,0,0,0,0,128

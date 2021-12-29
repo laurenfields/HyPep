@@ -21,7 +21,7 @@ from User_input2 import lst_seq
 for a in lst_seq:
     query = a
 
-    #a dictionary of mods
+    #a dictionary of mods, all masses are in Da
     Hydroxylation = 16 #K,N,P
     Carboxylation = 44 #K,D,E
     Phosphorylation = 80 #S,T,Y

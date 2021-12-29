@@ -4,7 +4,7 @@ Created on Thu Dec  9 11:44:05 2021
 
 @author: lawashburn
 """
-#Organizes ptm info in dataframe
+#Organizes ptm info in dataframe, gives monoisotopic mass of a given sequence
 import pandas as pd
 import numpy as np
 from Execute2 import temp_df
@@ -107,3 +107,4 @@ df_seq['Monoisotopic'] = Monoisotopic['Mass']
 df_seq['mass_pos'] = df_seq['mass'] + df_seq['Monoisotopic']
 
 df_seq2 = df_seq
+print(df_seq2)

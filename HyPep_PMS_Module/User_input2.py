@@ -55,13 +55,13 @@ seq['subtract'] = subtract['subtract']
 seq['mass'] = seq['Sum'] - seq['subtract']
 
 monoiso = pd.DataFrame()
-monoiso['Monoisotopic Mass'] = seq['mass']
+monoiso['Monoisotopic Mass'] = seq['mass'] #monoisotopic mass is in g/mol
 #pms_choice = input('Simple or complex pms search')
 #pms_choice = 'complex'
 
-simple_out_mass_match = input('enter path to output simple mass match .csv: ')
-complex_out_mass_match = input('enter path to output complex mass match .csv: ')
-out_ptm_match = input('enter path to output ptm match .csv: ')
-#simple_out_mass_match = r"C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\PTM_fixed_code\simple_out.csv"
-#complex_out_mass_match = r"C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\PTM_fixed_code\complex_out.csv"
-#out_ptm_match = r"C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\PTM_fixed_code\ptm_report_df.csv"
+#simple_out_mass_match = input('enter path to output simple mass match .csv: ')
+#complex_out_mass_match = input('enter path to output complex mass match .csv: ')
+#out_ptm_match = input('enter path to output ptm match .csv: ')
+simple_out_mass_match = r"C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\HyPep_PMS_Module\simple_out.csv"
+complex_out_mass_match = r"C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\HyPep_PMS_Module\complex_out.csv"
+out_ptm_match = r"C:\Users\lawashburn\Documents\HyPep_1.0\PTM_fixed_code\Cloud_Pull20211216\PTM_fixed_code-20211216T190857Z-001\HyPep_PMS_Module\ptm_report_df.csv"
